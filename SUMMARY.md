@@ -1,3 +1,3 @@
 # Table of contents
 
-* [README](README.md)
+* [VR Training Resources START HERE](README.md)
