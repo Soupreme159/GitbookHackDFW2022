@@ -1,2 +1,2 @@
-# Copy of MedVR (Oculus)
+# Guides for Device Management
 
