@@ -17,7 +17,6 @@
   * [Oculus App Acquisition Process v1.3](oculus-oculus-store-apps/oculus-app-acquisition-process-v1.3.md)
   * [Connecting Oculus to RedBalloon](oculus-oculus-store-apps/connecting-oculus-to-redballoon-1.md)
 * [KindVR](kindvr/README.md)
-  * [0 Contact Info Kind VR](kindvr/0-contact-info-kind-vr.md)
   * [1 PLACEHOLDER New KindVR Headset Acquisition and Setup Processes](kindvr/1-placeholder-new-kindvr-headset-acquisition-and-setup-processes.md)
   * [2 KindVR Clinical Procedure Workflow Tips](kindvr/2-kindvr-clinical-procedure-workflow-tips.md)
   * [3 PLACEHOLDER KindVR How to use headset and apps](kindvr/3-placeholder-kindvr-how-to-use-headset-and-apps.md)

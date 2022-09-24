@@ -1,9 +1,9 @@
 # Set up your oculus quest
 
-![](<../.gitbook/assets/0 (1)>)
+![](<../.gitbook/assets/0 (6)>)
 
 1. Insert batteries in the controller.
-2. ![](<../.gitbook/assets/1 (4)>)Power on the headset.
+2. ![](<../.gitbook/assets/1 (2)>)Power on the headset.
 
 Power button
 
@@ -12,10 +12,10 @@ Power button
 
 ### If you receive a message that says the guardian is not found, THE STEP-BY-STEP ON-SCREEN INSTRUCTIONS.
 
-![](../.gitbook/assets/3)
+![](<../.gitbook/assets/3 (1)>)
 
 1. Confirm floor level – gently lower your controller to the ground to set the level. When the virtual grid is correctly locked at floor level, press the **Confirm** button.
-2. ![](<../.gitbook/assets/4 (1)>)Define play area – you need to define your physical space where you can move in the room without any obstruction.
+2. ![](../.gitbook/assets/4)Define play area – you need to define your physical space where you can move in the room without any obstruction.
 
 Point your controller at the floor then press and hold the trigger to draw the boundary of your cleared play area.
 
@@ -23,7 +23,7 @@ Point your controller at the floor then press and hold the trigger to draw the b
 2. Confirm the guardian boundary and select **Continue**.
 3. Your guardian is now set and you will be able to see the MedVR ED library.
 
-![](../.gitbook/assets/5)
+![](<../.gitbook/assets/5 (1)>)
 
 1. Connect your headset to the Wi-Fi. If you face any difficulty connecting, please contact your IT support team to provide access to the internet.
 
