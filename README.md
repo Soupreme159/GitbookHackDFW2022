@@ -65,4 +65,4 @@ Training Outline:
 
 [https://www.youtube.com/watch?v=d73PfTXZDvo](https://urldefense.com/v3/\_\_https:/www.youtube.com/watch?v=d73PfTXZDvo\_\_;!!G-vmT1M064aM!H6TcJ39tuf5\_vpy4ZbjWIdpRfNLtG5xZWsyajbLcwFu5pZqK3iRYa4XBghkiQaGZv0LG$)
 
-![Video titled: Oculus Quest 2 VR Headset Setting Up Guardian | Oculus](<.gitbook/assets/0 (2)>)
+![Video titled: Oculus Quest 2 VR Headset Setting Up Guardian | Oculus](<.gitbook/assets/0 (1)>)
