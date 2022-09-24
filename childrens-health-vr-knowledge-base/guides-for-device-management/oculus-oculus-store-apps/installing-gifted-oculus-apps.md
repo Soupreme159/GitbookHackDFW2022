@@ -41,7 +41,7 @@ Items you will need to redeem & install gifted apps on Oculus:
 
 * Locate the email containing the gifted app in the inbox.
 * It should look like this:
-  * ![](<../../.gitbook/assets/0 (10)>)
+  * ![](<../../../.gitbook/assets/0 (10)>)
 * Click on ‘Redeem Gift’. It should take you to the Oculus website.
 * The code should auto-populate when you click on “Redeem gift” on the app’s page. Ensure that the auto-populated code matches the code in the email.
 * Once you click Redeem, a message should pop up saying “Added to VR Library”.

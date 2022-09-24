@@ -35,7 +35,7 @@ For now, Innovation Lab Specialist will be responsible for this process. A homes
 * Create a new configuration for each clinic’s home screen (because each clinic has different apps).
   * **Name of configuration: \_\_\_(Clinic)\_\_\_ PM\&R Home Screen**
 * See the ‘Richardson PM\&R Home Screen’ Configuration as an example.
-  * ![](<../.gitbook/assets/0 (1)>)
+  * ![](<../../../.gitbook/assets/0 (1)>)
 * A list of Deployed Apps as well as the full App Library should appear. Scroll down the App Library list on the right and click ‘Deploy’ for all of the apps you wish to include on the homescreen.
 
 **Step 4: Creating the homescreen**
@@ -51,4 +51,4 @@ For now, Innovation Lab Specialist will be responsible for this process. A homes
 
 * In ‘Devices’, click on the clinic device that you just made a home screen for.
 * Click on the Configuration drop down menu near the top of the device page and select the configuration for that clinic.
-  * ![](<../.gitbook/assets/1 (1)>)
+  * ![](<../../../.gitbook/assets/1 (1)>)

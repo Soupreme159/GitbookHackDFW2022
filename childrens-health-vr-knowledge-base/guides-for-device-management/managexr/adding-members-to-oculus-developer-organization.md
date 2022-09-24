@@ -21,6 +21,6 @@
   * [https://auth.oculus.com/login/?redirect\_uri=https%3A%2F%2Fdeveloper.oculus.com%2Fmanage%2F](https://auth.oculus.com/login/?redirect\_uri=https%3A%2F%2Fdeveloper.oculus.com%2Fmanage%2F)
 * Log into the Oculus account that you are trying to add as a member.
 * Then, in a different window, log into the email inbox of the account that you are trying to add as a member. You will see an email containing the invite to join the developer organization.
-  * ![](../.gitbook/assets/2)
+  * ![](../../../.gitbook/assets/2)
 * Click ‘View Invitation’, and it should redirect you to the Oculus Developer site again. Ensure that you are logged into the account that you are trying to add as a member, and not the Innovation account.
 * Accept the invitation. This account will now be part of the Innovation Oculus Developer Organization.
