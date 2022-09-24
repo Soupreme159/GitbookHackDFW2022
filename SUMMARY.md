@@ -1,7 +1,6 @@
 # Table of contents
 
-* [VR Training Resources START HERE](README.md)
-* [MedVR (Oculus)](medvr-oculus/README.md)
+* [MedVR (Oculus)](README.md)
   * [Set up your oculus quest](medvr-oculus/set-up-your-oculus-quest.md)
   * [Tracking User Completion in MedVR](medvr-oculus/tracking-user-completion-in-medvr.md)
   * [Tracking MedVR User Completion Pre LMS Integration](medvr-oculus/tracking-medvr-user-completion-pre-lms-integration.md)
@@ -38,3 +37,6 @@
   * [Submitting Tickets for Registering PM\&R Headsets](managexr/submitting-tickets-for-registering-pm-and-r-headsets.md)
   * [Submitting Tickets for Registering PM\&R Headsets1](managexr/submitting-tickets-for-registering-pm-and-r-headsets1.md)
   * [Using Invincikids and Oculus Store Content](managexr/using-invincikids-and-oculus-store-content.md)
+* [Guides for Device Management](guides-for-device-management/README.md)
+  * [VR Training Resources START HERE](guides-for-device-management/vr-training-resources-start-here.md)
+* [Guides for VR Users](guides-for-vr-users.md)
