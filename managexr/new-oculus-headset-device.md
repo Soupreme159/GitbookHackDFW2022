@@ -68,11 +68,11 @@ This section is going to cover the enrollment process for the headset to ManageX
 1. Ensure the Status is "Ready For Install". If it isn't, hover over the status for more instructions, or read about the various statuses [here](https://help.managexr.com/en/articles/5296578-register-a-new-device#h\_afbba777ff).
 2. Enter your device's target Configuration and Name
 3. Click "Install"
-4. ![image](<../../.gitbook/assets/0 (9)>)
+4. ![image](<../.gitbook/assets/0 (9)>)
 5. Log into ManageXR and assign the desired configuration to the device.
 6. Hit Sync on the device page to force the device to check in with the server and retrieve the latest configuration
 7. The device will download the assigned apps and launch the HomeScreen.
 
 Guided video: [Oculus Device Setup Tutorial](https://youtu.be/0at9Oz2EPlw)
 
-![Video titled: Oculus Device Setup Tutorial](<../../.gitbook/assets/1 (6)>)
+![Video titled: Oculus Device Setup Tutorial](<../.gitbook/assets/1 (6)>)
