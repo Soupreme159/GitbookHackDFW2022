@@ -3,7 +3,7 @@
 ![](<../../../.gitbook/assets/0 (6) (1)>)
 
 1. Insert batteries in the controller.
-2. ![](<../../../.gitbook/assets/1 (2) (1)>)Power on the headset.
+2. ![](<../../../.gitbook/assets/1 (2) (1) (1)>)Power on the headset.
 
 Power button
 

@@ -52,7 +52,7 @@
     * [\_VR, AR Inventory Tracker.xlsx](https://dallaschildrens.sharepoint.com/:x:/t/InnovationTeam/EZvrjeDbtVJOlwvJKXSTpnYBP8m\_rg2Z6Pm0yNVf\_JffDA?e=9oT4V9)
 * After it is renamed to the BAT number, click on the Configuration drop down menu & add the device to the previously created configuration for that specific clinic. Reference Step 3 in this document:
   * [Creating a Homescreen Through ManageXR.docx](https://dallaschildrens.sharepoint.com/:w:/t/InnovationTeam/ERA9N6ciVT5Bkg102MwG9pIBE6erUrbjchwEKWDF7PAVXg?e=sUZHSn)
-  * ![](<../../../.gitbook/assets/1 (2)>)
+  * ![](<../../../.gitbook/assets/1 (2) (2)>)
 
 **Step 4: Ensure that the home screen is actually set up on the clinic headset & the home screen works.**
 
